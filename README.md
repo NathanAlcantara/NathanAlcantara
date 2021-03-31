@@ -24,9 +24,9 @@ Well, that's me! 💙 <br/>
 Be my guest to contact me to us exchange ideas and evolve as developers and humans! 🚀🎆
 
 <a href="https://www.linkedin.com/in/nathan-alcantara2312/">
-  <img align="left" alt="Linkedin" width="25px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/master/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="25px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/main/assets/linkedin.svg" />
 </a>
 
 <a href="mailto:nathangabriel97@gmail.com">
-  <img align="left" alt="Gmail" width="27px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/master/assets/envelope.svg" />
+  <img align="left" alt="Gmail" width="27px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/main/assets/envelope.svg" />
 </a>
