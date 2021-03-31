@@ -3,7 +3,7 @@
 This is my place to not be judged about not finish my projects XD <br/>
 But i only do this because i'm always learning about different technologies and frameworks, so my projects always become 'legacy'.
 
-\> Here thing that you should know about me:
+\> Here things that you should know about me:
 - 🇧🇷 Brazilian
 - 🛹 I'm a Javascript lover!! (NodeJs, Angular, Vue, etc)
 - 💻 Fullstack developer with focus on Frontend.
