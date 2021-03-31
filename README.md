@@ -8,7 +8,7 @@ But i only do this because i'm always learning about different technologies and 
 - 🛹 I'm a Javascript lover!! (NodeJs, Angular, Vue, etc)
 - 💻 Fullstack developer with focus on Frontend.
 - 🥬 I like to use the MEAN stack with GraphQL.
-- 🧑‍🎓 Studing to be a AWS Certified Developer Associate.
+- 🧑‍🎓 Studying to be a AWS Certified Developer Associate.
 - 🤖 Making a private Telegram Bot using Serveless.
 
 \> Working as DevOps engineer at [Senior Sistemas](https://www.senior.com.br/) using and learning some tools, like:
