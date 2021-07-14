@@ -30,3 +30,8 @@ Be my guest to contact me to us exchange ideas and evolve as developers and huma
 <a href="mailto:nathangabriel97@gmail.com">
   <img align="left" alt="Gmail" width="27px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/main/assets/envelope.svg" />
 </a>
+
+<a href="https://gist.github.com/NathanAlcantara">
+  <img align="left" alt="Gmail" width="27px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/main/assets/terminal.svg" />
+</a>
+
