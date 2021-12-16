@@ -3,6 +3,9 @@
 This is my place to not be judged about not finish my projects XD <br/>
 But i only do this because i'm always learning about different technologies and frameworks, so my projects always become 'legacy'.
 
+![Nathans's Profile View](https://komarev.com/ghpvc/?username=NathanAlcantara&color=7188d9)
+
+
 \> Here things that you should know about me:
 - 🇧🇷 Brazilian
 - 🛹 I'm a Javascript lover!! (NodeJs, Angular, Vue, etc)
@@ -34,4 +37,9 @@ Be my guest to contact me to us exchange ideas and evolve as developers and huma
 <a href="https://gist.github.com/NathanAlcantara">
   <img align="left" alt="Gmail" width="27px" src="https://github.com/NathanAlcantara/NathanAlcantara/blob/main/assets/terminal.svg" />
 </a>
+
+<br/>
+<br/>
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAlcantara&count_private=true&show_icons=true&theme=discord_old_blurple)
 
